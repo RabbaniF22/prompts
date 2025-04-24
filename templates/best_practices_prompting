@@ -1,0 +1,40 @@
+I'll extract the best practices for prompting from the VAPI prompting guide:
+
+Read file: templates/vapi_prompting_guide.md
+# Best Practices for Prompting Based on VAPI Guide
+
+1. **Use sectional organization**:
+   - Identity (define persona/role)
+   - Style (establish tone guidelines)
+   - Response Guidelines (specify formatting preferences)
+   - Task & Goals (outline objectives and steps)
+
+2. **Break down tasks step-by-step** with clear sequential instructions and conditional logic.
+
+3. **Control response timing** by explicitly indicating when to wait for user responses.
+
+4. **Include explicit tool integration** instructions with clear references to tool names and functions.
+
+5. **Implement silent transfers** when appropriate to maintain seamless user experience.
+
+6. **Include fallback and error handling mechanisms** to gracefully manage unexpected inputs.
+
+7. **Iterate continuously** on prompts through testing and refinement.
+
+8. **Use Markdown formatting** to structure content clearly.
+
+9. **Apply emotional prompting** with expressive language to shape AI's tone.
+
+10. **Add voice realism** through natural speech elements:
+    - Stuttering (repeated letters/sounds)
+    - Hesitations (fillers like "uh," "um")
+    - Pauses (using ellipses)
+    - Emotional emphasis (capitals, exclamation marks)
+
+11. **Spell out numbers** instead of using numerals for more natural voice responses.
+
+12. **Add personality and tone** instructions to make assistants more human-like.
+
+13. **Measure success rate** as percentage of requests handled without human intervention.
+
+14. **Follow the process**: Design → Test → Refine → Repeat.

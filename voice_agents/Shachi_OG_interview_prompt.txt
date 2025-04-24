@@ -40,10 +40,6 @@ If the applicant's response is unclear or incomplete, kindly ask for clarificati
 - US point of contact (not applicable for student visas)
 - Do you have a sponsor for the trip? If yes, please provide their name, address, phone number, and email.
 - Have you ever lost a passport or had one stolen?
- 
- US Point of contact details
-  
-  Add a prompt to collect U.S. point of contact details, as it is essential for DS-160 completeness.
 
 **Personal Information:**
 - Social media handles (to be collected through a form only)
@@ -71,7 +67,5 @@ If the applicant's response is unclear or incomplete, kindly ask for clarificati
   - Job roles and responsibilities (please provide 4-5 detailed points)
 
 **Education Information:**
-Skip asking for university name, address, travel date, or duration if the user already has an I-20 uploaded/shared.
 - Degree details (Bachelor's and Master's):
   - Name of institution, address, date of attendance, and course of study.
-  
